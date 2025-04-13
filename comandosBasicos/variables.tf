@@ -1,3 +1,3 @@
 variable "rg_nombre" {
-    type = string  
+  type = string
 }
